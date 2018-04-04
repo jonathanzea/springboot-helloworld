@@ -6,3 +6,6 @@ This project exposes a single endpoint that respons a string, helloworld. It has
 
 You'll also find a configuration in ```src/main/resources``` to easily enter those endpoints
 
+## How to run (IntelliJ)?
+
+Create a new running configuration (Application type) and just add the main class `com.zea.demo.springboot.Application`
