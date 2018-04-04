@@ -8,4 +8,4 @@ You'll also find a configuration in ```src/main/resources``` to easily enter tho
 
 ## How to run (IntelliJ)?
 
-Create a new running configuration (Application type) and just add the main class `com.zea.demo.springboot.Application`
+Create a new running configuration (Application type) and just add the main class `com.zea.demo.springboot.Application` and run it!
